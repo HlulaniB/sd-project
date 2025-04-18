@@ -12,7 +12,7 @@ import { getDatabase, ref, set } from "firebase/database";
 const firebaseConfig = {
   apiKey: "AIzaSyBvcYkjEEzozNpH6qjN5-8xKXGp5jZPEYg",
   authDomain: "sd-database-19b80.firebaseapp.com",
-  projectId: "sd-database-19b80",
+  projectId: "sd-database-19b80", 
   storageBucket: "sd-database-19b80.firebasestorage.app",
   messagingSenderId: "1065056844407",
   appId: "1:1065056844407:web:1aa4644948c3476b15a472",
